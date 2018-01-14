@@ -1,5 +1,5 @@
 /**
- * GUINode.hpp
+ * MainWindow.hpp
  * Etienne Boespflug - 2017
  */
 
