@@ -1,0 +1,52 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="about">imgs/Ico/about.png</file>
+        <file alias="changeFolder">imgs/Ico/changeFolder.png</file>
+        <file alias="clock">imgs/Ico/clock.png</file>
+        <file alias="console">imgs/Ico/console.png</file>
+        <file alias="delete">imgs/Ico/delete.png</file>
+        <file alias="fastConfig">imgs/Ico/fastConfig.png</file>
+        <file alias="help">imgs/Ico/help.png</file>
+        <file alias="ico">imgs/Ico/ico.ico</file>
+        <file alias="maxPerf">imgs/Ico/maxPerf.png</file>
+        <file alias="maxQual">imgs/Ico/maxQual.png</file>
+        <file alias="monitor">imgs/Ico/monitor.png</file>
+        <file>imgs/Ico/openProfile.png</file>
+        <file alias="options">imgs/Ico/options.png</file>
+        <file>imgs/Ico/qFair.png</file>
+        <file>imgs/Ico/qGood.png</file>
+        <file>imgs/Ico/qHigh.png</file>
+        <file>imgs/Ico/qLow.png</file>
+        <file alias="quit">imgs/Ico/quit.png</file>
+        <file>imgs/Ico/qUltra.png</file>
+        <file alias="save">imgs/Ico/saveProfile.png</file>
+        <file alias="generate">imgs/Ico/scan.png</file>
+        <file alias="file">imgs/Ico/sFile.png</file>
+        <file>imgs/Ico/sQuality.png</file>
+        <file alias="tool">imgs/Ico/sTools.png</file>
+        <file alias="view">imgs/Ico/sView.png</file>
+        <file alias="warning">imgs/Ico/sWarnings.png</file>
+        <file alias="template">imgs/Ico/template.png</file>
+        <file alias="saveAs">imgs/Ico/test.png</file>
+        <file>imgs/Ico/toWtf.png</file>
+        <file>imgs/Ico/app.ico</file>
+        <file>imgs/Ico/copy.png</file>
+        <file>imgs/Ico/cut.png</file>
+        <file>imgs/Ico/down.png</file>
+        <file>imgs/Ico/commentOutLines.png</file>
+        <file>imgs/Ico/home.png</file>
+        <file alias="qt">imgs/Ico/qt.png</file>
+        <file>imgs/Ico/newFile.png</file>
+        <file>imgs/Ico/openFile.png</file>
+        <file>imgs/Ico/redo.png</file>
+        <file alias="run">imgs/Ico/run.png</file>
+        <file alias="runSBS">imgs/Ico/runSBS.png</file>
+        <file>imgs/Ico/paste.png</file>
+        <file>imgs/Ico/saveAsFile.png</file>
+        <file>imgs/Ico/saveFile.png</file>
+        <file alias="stop">imgs/Ico/stop.png</file>
+        <file alias="crossover">imgs/Ico/uncommentLines.png</file>
+        <file>imgs/Ico/undo.png</file>
+        <file alias="mutate">imgs/Ico/up.png</file>
+    </qresource>
+</RCC>

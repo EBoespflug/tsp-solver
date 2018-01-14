@@ -1,0 +1,9 @@
+"<h2>TSP v0.1 </h2>"
+R"(
+<p align="justify"><b>Travler Salesman Problem </b>is an universitary project written in C++/Qt implementing a genetic algorithm.</p>)"
+
+"Based on Qt" QT_VERSION_STR "<br /><br />"
+"Built on " __DATE__ " " __TIME__
+"<br /><br />"
+"The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRANTY OF DESIGN, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE."
+
