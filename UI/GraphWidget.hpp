@@ -50,7 +50,7 @@ public slots:
      */
     void setGAEdges(const std::vector<Node>& circuit);
     /**
-     * Remove all edges of the graph.
+     * Removes all edges of the graph.
      */
     void clearEdges();
     /**
@@ -66,19 +66,19 @@ protected:
     void keyPressEvent(QKeyEvent* event) override;
 #ifndef QT_NO_WHEELEVENT
     /**
-     * Handle the mouse wheel event for zoom.
+     * Handles the mouse wheel event for zoom.
      * @param event the considered wheel event.
      */
     void wheelEvent(QWheelEvent* event) override;
 #endif
     /**
-     * Draw the background of the scene.
+     * Draws the background of the scene.
      * @param painter the painter used for drawing.
      * @param rect the dimension of the background.
      */
     void drawBackground(QPainter* painter, const QRectF& rect) override;
     /**
-     * Rescale the scene (used by zoom functions).
+     * Rescales the scene (used by zoom functions).
      * @param scaleFactor the factor of zoom.
      */
     void scaleView(qreal scaleFactor);
