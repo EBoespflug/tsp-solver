@@ -32,6 +32,7 @@ Here is a list of the feature and ideas that will (or maybe not) be implemented 
  - *Movable GUI nodes*: the nodes of the graph (corresponding to the TSP nodes : the cities) could be movable. Thus, the GUINode could change the effective position of the nodes (cities).
  - *Image background*: an image can be used as background (such as an actual map) and the user can specify the theorical size of the map (to use actual distance on the map).
  - *Preconfigured graph*: save and export graph, and maybe graph + image to give preconfigured maps, such as Europe or a country.
+ - *Visual algorithm* : show the actual task of the algorithm. For instance, for the genetic algorithm, provide a dock window containing the population and show the various action (select, mutate, cross...) step by step.
 
 ## Contributors
 
